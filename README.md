@@ -13,7 +13,7 @@ A Python implementation of the Bulls and Cows number guessing game that includes
 
 ## Requirements
 
-- Python 3.x
+- Python
 - NumPy
 - Matplotlib
 
